@@ -1,0 +1,19 @@
+c:\users\roman\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\roman\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\roman\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\roman\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+c:\users\roman\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\roman\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\roman\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\roman\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+c:\users\roman\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\projects\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\projects\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
